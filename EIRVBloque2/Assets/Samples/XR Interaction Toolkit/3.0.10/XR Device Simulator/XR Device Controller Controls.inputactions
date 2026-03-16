@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "XR Device Controller Controls",
     "maps": [
         {
@@ -292,7 +293,7 @@
                 {
                     "name": "",
                     "id": "32072c42-6a30-4383-8362-d65ff475c920",
-                    "path": "<Keyboard>/g",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "XR Device Simulator Controls",
     "maps": [
         {
@@ -532,7 +533,7 @@
                 {
                     "name": "",
                     "id": "e8a0a3b9-06cf-40a8-86d8-1d8f1d704451",
-                    "path": "<Keyboard>/y",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
